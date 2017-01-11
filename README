@@ -1,0 +1,8 @@
+James Capuder, I worked alone.
+I affirm that I have adhered to the honor code in this assignment.
+
+All "looping, forking, piping" components are indeed functional, as well as multipiping and SIGINT, and rediction, but not background (ran out of time).
+
+I'm unaware of bugs or errors, but haven't tested as extensively as I'd like.
+
+The only design decision I have to share is the motivation behind the name: Made-Up-SHell.
